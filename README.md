@@ -1,0 +1,1 @@
+# barscanner_cordova_android
